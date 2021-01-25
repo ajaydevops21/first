@@ -1,1 +1,2 @@
-This is first git repo first file sample.
+This is first git repo first file sample
+second line.
